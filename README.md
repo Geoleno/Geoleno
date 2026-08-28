@@ -19,7 +19,7 @@ I care most about continuous learning and building things that create real impac
 |---|---|---|
 | **[NexScope](https://github.com/Geoleno/NexScope)** | AI iOS app that screens for tuberculosis by detecting *M. tuberculosis* in sputum images | Swift · Core ML · Vision · YOLOv11 Nano |
 | **[BoxMaxxing](https://github.com/Geoleno/BoxMaxxingFinal)** | AI shadow-boxing evaluator with real-time pose detection and instant technique feedback | Swift · Core ML · Vision · AVFoundation |
-| **[LENS](https://github.com/Geoleno/LENS)** | AI web app that helps cold-chain logistics operators plan routes to keep food commodities fresh | AI Web App |
+| **[LENS](https://github.com/gabriellaawidd/AIC-Apel)** | AI web app that helps cold-chain logistics operators plan routes to keep food commodities fresh | AI Web App |
 | **[SaveTransactionApp](https://github.com/Geoleno/SaveTransactionApp)** | Android expense tracker that digitizes receipts from a single photo via OCR | Java · Firebase · Google ML Kit · CameraX |
 
 ---
