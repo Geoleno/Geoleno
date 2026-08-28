@@ -54,10 +54,3 @@ I care most about continuous learning and building things that create real impac
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Geoleno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoleno&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Geoleno&layout=compact&hide_border=true)
