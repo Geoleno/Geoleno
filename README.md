@@ -22,8 +22,6 @@ I care most about continuous learning and building things that create real impac
 | **[LENS](https://github.com/Geoleno/LENS)** | AI web app that helps cold-chain logistics operators plan routes to keep food commodities fresh | AI Web App |
 | **[SaveTransactionApp](https://github.com/Geoleno/SaveTransactionApp)** | Android expense tracker that digitizes receipts from a single photo via OCR | Java · Firebase · Google ML Kit · CameraX |
 
-> 💡 Tip: pin these five on your profile so they appear first (Repositories → Customize pins).
-
 ---
 
 ## 🛠️ Tech Stack
